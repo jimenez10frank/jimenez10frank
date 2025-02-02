@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a web development student who enjoys building websites and learning new skills. I mainly work with PHP, JavaScript, HTML, and CSS. Right now, I’m working on a project called Muskl—a gym membership website where users can sign up and buy fitness products like supplements and gear. 🏋️‍♂️💳<br><br>I focus on creating clean, simple, and functional websites. I’m always eager to improve my coding skills and take on new challenges. I’m looking for opportunities to apply my skills in real-world projects and gain hands-on experience. If you're interested in collaborating or discussing ideas, feel free to reach out! 💬</p>
+<p align="left">I’m a student who enjoys building websites and learning new skills. I mainly work with PHP, JavaScript, HTML, and CSS. Right now, I’m working on a project called "Muskl"a gym membership website where users can sign up and buy fitness products like supplements and gear. 🏋️‍♂️💳<br><br>I focus on creating clean, simple, and functional websites. At the moment my main focus for this project is to master CRUD operatrions and API integrations. If you're interested in collaborating or discussing ideas, feel free to reach out! 💬</p>
 
 ###
 
