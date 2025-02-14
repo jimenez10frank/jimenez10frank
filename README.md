@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Frank Junior and I'm a Software Developer Student, from ROC Van Amsterdam!  :D</h2>
+<h3>ATTENTION: My projects are made trought School with Gitlab and the repository's are private wich leads to only being able to upload the files with 1-2 commits...</h3>
 
 ###
 
